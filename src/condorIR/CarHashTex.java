@@ -6,7 +6,7 @@
 package condorIR;
 
 /**
- *
+ * 
  * @author gaoz
  */
 public class CarHashTex {
