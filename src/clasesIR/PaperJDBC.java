@@ -1,5 +1,11 @@
 package clasesIR;
 
+/**
+* Conexión a la tabla paper de la BD
+* @author: Germán A. Osorio-Zuluaga
+   */
+
+
 import condorIR.Condor;
 import java.io.File;
 import java.util.List;

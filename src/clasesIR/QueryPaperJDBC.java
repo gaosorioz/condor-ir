@@ -1,5 +1,10 @@
-
 package clasesIR;
+
+/**
+* Conexión a la relación QueryPaper de la BD
+* @author: Germán A. Osorio-Zuluaga
+  */
+
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;

@@ -1,5 +1,12 @@
 package clasesIR;
 
+/**
+ * Define los atributos de una consulta (query)
+  * @author: Germán A. Osorio-Zuluaga
+ * @version: 2020/09/11
+  */
+
+
 public class Query {
 // Atributos
         private int codQuery;        

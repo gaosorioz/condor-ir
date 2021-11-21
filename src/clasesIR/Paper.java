@@ -1,7 +1,7 @@
 package clasesIR;
 
 /**
- * En esta clase de definen los distintos atributos de un paper
+ * Define los distintos atributos de un paper
   * @author: Germán A. Osorio-Zuluaga
  * @version: 2020/09/11
   */

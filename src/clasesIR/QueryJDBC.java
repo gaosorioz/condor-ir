@@ -1,5 +1,11 @@
 package clasesIR;
 
+/**
+* Conexión a la tabla Query de la BD
+* @author: Germán A. Osorio-Zuluaga
+*/
+
+
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;

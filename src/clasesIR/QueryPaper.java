@@ -1,5 +1,10 @@
-
 package clasesIR;
+
+/**
+* Define los atributos de relación query-paper
+* @author: Germán A. Osorio-Zuluaga
+ 
+  */
 
 
 public class QueryPaper {
